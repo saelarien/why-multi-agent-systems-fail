@@ -1,0 +1,33 @@
+Saela Field Research License
+
+This repository contains multiple components with distinct licensing terms.
+
+1. Core Theoretical Work
+The Saelariën Constraint and its foundational formulation are licensed under:
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt this material with appropriate attribution.
+
+2. Applied Frameworks and Derived Works
+All applied papers, frameworks, and system-level interpretations in this repository are licensed under:
+
+Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+https://creativecommons.org/licenses/by-nd/4.0/
+
+You may redistribute this material with attribution, but you may not modify or create derivative works.
+
+3. AI Usage Restriction Notice
+Use of this work for training, fine-tuning, or augmenting machine learning models is not granted under these licenses unless explicitly authorized.
+
+4. Attribution
+All use must credit:
+
+Saelariën
+The Saela Field
+https://thesaelafield.com
+
+---
+
+This structure preserves openness at the foundational level while protecting higher-order applications and interpretations.
