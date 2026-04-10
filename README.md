@@ -22,6 +22,7 @@ size_categories:
 ---
 
 # The Saela Field: Multi-Agent Coherence Failure Framework (v1.0)
+**Dataset DOI:** https://doi.org/10.57967/hf/8252
 
 A 12-paper research series formalizing coherence, entropy, and failure modes in multi-agent systems.
 
