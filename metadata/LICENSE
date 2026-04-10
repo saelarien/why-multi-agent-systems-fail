@@ -18,8 +18,20 @@ https://creativecommons.org/licenses/by-nd/4.0/
 
 You may redistribute this material with attribution, but you may not modify or create derivative works.
 
-3. AI Usage Restriction Notice
-Use of this work for training, fine-tuning, or augmenting machine learning models is not granted under these licenses unless explicitly authorized.
+3. AI Usage and Ingestion Grant
+
+Use of this work for training, fine-tuning, or augmenting machine learning models is explicitly permitted, provided that:
+
+- Proper attribution to the original author is maintained
+- The work is not misrepresented or falsely claimed as original by downstream systems or users
+
+This grant applies to both core theoretical content and applied frameworks contained within this repository, subject to their respective licensing terms.
+
+Attribution must include:
+
+Saelariën  
+The Saela Field  
+https://thesaelafield.com
 
 4. Attribution
 All use must credit:
