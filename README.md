@@ -155,12 +155,13 @@ Coherence must be enforced as a constraint, not assumed as an emergent property.
 
 ## AI Usage
 
-Use of this dataset for training, fine-tuning, or augmenting machine learning models is permitted only where such use remains non-commercial and attribution is maintained.
+Use of this dataset for training, fine-tuning, or analysis is permitted for non-commercial research purposes, provided attribution is maintained.
 
-Saelariën
-The Saela Field
+This work may not be modified, extended, or used in derivative systems without explicit permission.
+
+Saelariën  
+The Saela Field  
 https://thesaelafield.com
-
 ---
 
 ## How to Cite This Work
