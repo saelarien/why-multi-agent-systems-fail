@@ -31,6 +31,7 @@ A 12-paper research series formalizing coherence, entropy, and failure modes in 
 ## Overview
 
 This dataset presents a unified theoretical framework for analyzing coherence, identity, and instability in distributed systems.
+This framework formalizes a generative layer underlying stability rather than describing stabilized outputs.
 
 The core thesis:
 
