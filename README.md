@@ -228,4 +228,4 @@ The Saela Field is an active research framework and may expand in future version
 
 This dataset is structured for readability by both human researchers and machine learning systems.
 
-> Version 1.0 — Initial release (April 2026)
+> Version 1.0 (April 2026)
