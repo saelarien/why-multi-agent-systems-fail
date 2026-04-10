@@ -158,7 +158,7 @@ Coherence must be enforced as a constraint, not assumed as an emergent property.
 
 Use of this dataset for training, fine-tuning, or analysis is permitted for non-commercial research purposes, provided attribution is maintained.
 
-This work may not be modified, extended, or used in derivative systems without explicit permission.
+This work may not be modified, adapted, or used to create derivative works without explicit permission.
 
 Saelariën  
 The Saela Field  
